@@ -1,0 +1,19 @@
+body{
+    background-color: #f9d6f278;
+    text-align: center;
+}
+#logo{
+    width: 60px;
+}
+#navbar{
+    border: solid;
+    padding-left: 87%;
+    background-color: aliceblue;
+}
+#f{
+    margin: 100 px;
+    border: 1px solid;
+}
+form label{
+    width: 80%;
+}
